@@ -1,0 +1,4 @@
+C:/Users/Lee/Exercism/cpp/hello-world/out/build/x64-Debug/CMakeFiles/hello-world.dir
+C:/Users/Lee/Exercism/cpp/hello-world/out/build/x64-Debug/CMakeFiles/test_hello-world.dir
+C:/Users/Lee/Exercism/cpp/hello-world/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Lee/Exercism/cpp/hello-world/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
